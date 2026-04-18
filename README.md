@@ -335,4 +335,4 @@ This testing project is created for educational and QA practice purposes using t
 
 ---
 
-*OrangeHRM Manual Testing Project | QA Maturity Level 4 | v3.0*
+*OrangeHRM AI-Assisted Manual Testing Project | QA Maturity Level 4 | v3.0*
