@@ -1,4 +1,4 @@
-# 🟠 OrangeHRM — Manual Testing Project
+# 🟠  OrangeHRM — AI-Assisted Manual Testing Project
 
 ![Project](https://img.shields.io/badge/Project-OrangeHRM%20v5.0-orange?style=flat-square)
 ![Test Cases](https://img.shields.io/badge/Test%20Cases-75-blue?style=flat-square)
