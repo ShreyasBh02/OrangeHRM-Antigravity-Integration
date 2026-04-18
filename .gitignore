@@ -1,0 +1,35 @@
+# GitHub repository ignore rules — OrangeHRM Manual Testing
+
+# ── Microsoft Office temp files ──────────────────────────────────────────────
+~$*.xlsx
+~$*.xls
+~$*.docx
+~$*.doc
+*.tmp
+
+# ── OS artifacts ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Python (if any scripts are run locally) ───────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+
+# ── Editor artifacts ──────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Local execution screenshots (push only curated evidence) ─────────────────
+screenshots/raw/
+
+# ── Credentials / Sensitive Files ─────────────────────────────────────────────
+config.local.*
+*.env
+secrets.*
